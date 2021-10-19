@@ -39,8 +39,7 @@
 
 <hr id="pghortalicas" />
 
-      <table border="0">
-
+      <table> 
            <tr align="center">
              <td><img src="img/alfacelisa.jpg" width="" height="200"/>  </td>       
              <td><img src="img/couve.jpg" width="" height="200"></td>
@@ -70,7 +69,8 @@
                  <p> - Roxa</p>
             </td>
            </tr>
-      </table>
+       </table>
+      
 
 <hr id="pglegumes" />
                 <font face="Verdana"color="#212121" size="4">
