@@ -22,7 +22,7 @@
     <audio  src="audio/audiof.mp3"autoplay preload loop controls> </audio>
 <hr id="inicio" />   
 <body link="#388E3C" alink="#388E3C" vlink="#388E3C" >
-   <img align="center" src="img/banner.GIF"  alt="banner de uma logo"  />
+   <img align="center" src="img/banner.png"  alt="banner de uma logo"  />
    
 
     <font face="Comic Sans MS" size="5" color="#212121">
