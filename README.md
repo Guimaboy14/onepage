@@ -1,5 +1,4 @@
 # primeira-index
- Minha primeira INDEX em HTML e CSS
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -10,7 +9,7 @@
     <meta name="description" content="Horta orgânica, produtos orgânicos"/>
 </head>
 
-    <p align="right ">
+    <p align="right">
       <font face="Comic Sans MS" align="center">
          <a href="#pginicio" >&nbsp; HOME &nbsp;</a>
          <a href="#pghortalicas" href="#pglegumes" >&nbsp; PRODUTOS &nbsp;</a>
@@ -19,13 +18,11 @@
       </font>
     </p>
 
-    <audio  src="audio/audiof.mp3"autoplay preload loop controls> </audio>
 <hr id="inicio" />   
 <body link="#388E3C" alink="#388E3C" vlink="#388E3C" >
    <img align="center" src="img/banner.png"  alt="banner de uma logo"  />
    
-
-    <font face="Comic Sans MS" size="5" color="#212121">
+    <font face="Ro" size="5" color="#212121">
       <h1 align="left">CANTINHO ORGÂNICO</h1>
     </font> 
 
@@ -50,8 +47,6 @@
              <td><img src="img/rucula.jpg" width="" height="200"></td>
              <td><img src="img/cheiroverde2.jpg" width="" height="200"></td>
            </tr> 
-
-
 
            <tr align="center">
              <b><th>Alfaces | R$ 4,50 Un </th><b>
@@ -102,9 +97,6 @@
  <br/>
 <br/>
 <br/>
-
-
-
         
         <p align="left" >Caso tenha alguma duvida<p>
             <img src="img/wpp.png" width="30" />
