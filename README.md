@@ -1,5 +1,5 @@
 # primeira-index
-<!DOCTYPE html>
+<DOCTYPE html>
 <html lang="pt-br">
 <head>
     <title > Cantinho Orgânico </title>
