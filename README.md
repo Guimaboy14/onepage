@@ -29,7 +29,13 @@
     <font face="Verdana"color="#212121" size="5"></font>
    
    <font face="Verdana" size="4">
-        <p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na <b>Cantinho Orgânico</b>, acreditamos que a mudança começa pelo nosso prato. Ao escolher nossos produtos orgânicos, você está alimentando o desenvolvimento de um pequeno agricultor familiar, onde preservamos a qualidade do solo e da água também a biodiversidade brasileira. Alimentos orgânicos são aqueles produzidos sem uso de agrotóxicos sintéticos, transgênicos ou fertilizantes químicos, são alimentos saudáveis que cuidam do nosso corpo, e tem mais durabilidade. As técnicas do processo de produção respeitam o meio ambiente, a saúde do trabalhador agrícola, a do consumidor e têm como objetivo manter a qualidade do alimento. </p>
+        <p align="justify"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na <b>Cantinho Orgânico</b>, acreditamos que a 
+          mudança começa pelo nosso prato. Ao escolher nossos produtos orgânicos, você está alimentando o 
+          desenvolvimento de um pequeno agricultor familiar, onde preservamos a qualidade do solo e da água 
+          também a biodiversidade brasileira. Alimentos orgânicos são aqueles produzidos sem uso de agrotóxicos 
+          sintéticos, transgênicos ou fertilizantes químicos, são alimentos saudáveis que cuidam do nosso corpo, 
+          e tem mais durabilidade. As técnicas do processo de produção respeitam o meio ambiente, a saúde do 
+          trabalhador agrícola, a do consumidor e têm como objetivo manter a qualidade do alimento. </p>
 
    <hr/>
 
@@ -38,8 +44,7 @@
        </font>
 
 <hr id="pghortalicas" />
-
-      <table> 
+      <table border="0"> 
            <tr align="center">
              <td><img src="img/alfacelisa.jpg" width="" height="200"/>  </td>       
              <td><img src="img/couve.jpg" width="" height="200"></td>
